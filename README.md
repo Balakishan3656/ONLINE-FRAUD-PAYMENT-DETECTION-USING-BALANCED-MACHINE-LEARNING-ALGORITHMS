@@ -1,6 +1,4 @@
-# ONLINE-FRAUD-PAYMENT-DETECTION-USING-BALANCED-MACHINE-LEARNING-ALGORITHMS[README (1).md](https://github.com/user-attachments/files/21536841/README.1.md)
-
-# Online Fraud Detection System using Machine Learning
+# ONLINE-FRAUD-PAYMENT-DETECTION-USING-BALANCED-MACHINE-LEARNING-ALGORITHMS
 
 This project is a Django web application for detecting fraudulent online transactions using machine learning models such as Random Forest and Naive Bayes. It also employs SMOTE for handling imbalanced datasets and provides visual insights into model performance.
 
